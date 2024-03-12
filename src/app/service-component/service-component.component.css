@@ -1,0 +1,29 @@
+.service-container{
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+
+.service-container h2{
+  display: flex;
+  justify-content: center;
+  color: #304364;
+}
+
+.first-paragraph{
+  display: flex;
+  justify-content: center;
+  font-size: 22px;
+}
+
+.services-section h3{
+  font-size: 20px;
+  font-weight: bold;
+  color: #304364;
+}
+
+.service-description{
+  font-size: 14px;
+  padding: 25px;
+}

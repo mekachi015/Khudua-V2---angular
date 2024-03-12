@@ -1,0 +1,26 @@
+.products-container{
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.first-header{
+  text-align: center;
+  color: #304364;
+}
+
+.first-paragraph{
+  text-align: center;
+  font-size: 22px;
+}
+
+.products-container h1{
+  color: #304364;
+  font-size: 20px;
+}
+
+.products-container p{
+  font-size: 18px;
+  line-height: 1rem;
+}
+

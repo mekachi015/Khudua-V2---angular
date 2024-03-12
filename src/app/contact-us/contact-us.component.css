@@ -1,0 +1,93 @@
+h2{
+  text-align: center;
+  color: #304364 ;
+  font-size: 23px;
+  font-weight: bolder;
+}
+
+.contact-section{
+  border: 1px solid black;
+  margin: 15px;
+  text-align: center;
+  border-radius: 15px;
+}
+
+.contact-section h3{
+  color: #304364;
+  font-size: 18px;
+}
+
+.contact-section p{
+  font-size: 12px;
+}
+
+.address-container{
+  display: flex;
+  align-items: center;
+  justify-content: space-around
+}
+
+.main-office, .joburg-office, .polokwane-office{
+  border: 1px solid black;
+  padding-bottom: 2px;
+  border-radius: 15px;
+}
+
+.main-office h3, .joburg-office h3, .polokwane-office h3{
+  text-align: center;
+  color: #304364;
+  font-size: 13px;
+}
+
+.main-office p, .joburg-office p, .polokwane-office p{
+  text-align: center;
+  font-size: 10px;
+}
+
+
+.map-link{
+  font-size: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.input-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+label{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 5px;
+  color: #304364;
+  font-weight: bold;
+  font-size: smaller;
+}
+
+input, textarea{
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 2px;
+}
+
+.button-container{
+  display: flex;
+  justify-content: space-around;
+}
+
+button{
+  width: 90px;
+  height: 40px;
+  background-color: #aa853d;
+  color: white;
+  border-radius: 30px;
+}
+
+button:hover{
+  background-color: #304364;
+  color: black;
+}
