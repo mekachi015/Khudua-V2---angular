@@ -1,0 +1,27 @@
+.resource-description-container p{
+  padding: 25px;
+  font-size: 18px;
+}
+
+strong{
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+  font-size: 20px;
+  color: #304364;
+}
+
+.service-container{
+  text-align: center;
+}
+
+.service-container h2{
+  font-size: 22px;
+  color: #304364;
+
+}
+
+.service-container p {
+  font-size: 18px;
+  padding: 25px;
+}
